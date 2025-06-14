@@ -10,7 +10,7 @@ Libraries used:
 - tabler/icons-react
 - shadcn
 
-See the site here: [https://calculators.curiobuilds.dev/](https://calculators.curiobuilds.dev/)
+Live site here: [https://calculators.curiobuilds.dev/](https://calculators.curiobuilds.dev/)
 
 # TODO
 
