@@ -10,6 +10,8 @@ Libraries used:
 - tabler/icons-react
 - shadcn
 
+See the site here: [https://calculators.curiobuilds.dev/](https://calculators.curiobuilds.dev/)
+
 # TODO
 
 - [x] Replace the favicon with my own SVG
