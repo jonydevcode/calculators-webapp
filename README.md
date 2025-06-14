@@ -15,3 +15,4 @@ Libraries used:
 - [ ] Make the Label + Input + Slider a component itself
 - [ ] Modify the Principal field to use the slider
 - [ ] Prettify the Principal field to use currency formatting and parsing
+- [ ] Add product analytics
