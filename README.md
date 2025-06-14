@@ -12,7 +12,7 @@ Libraries used:
 
 # TODO
 
-- [ ] Replace the favicon with my own SVG
+- [x] Replace the favicon with my own SVG
 - [ ] Make the Label + Input + Slider a component itself
 - [ ] Modify the Principal field to use the slider
 - [ ] Prettify the Principal field to use currency formatting and parsing
